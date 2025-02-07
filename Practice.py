@@ -1,1 +1,1 @@
-print("Pacchiddi Pranav Rajvi Gaurav and shey are good friends")
+print("Pacchiddi Parnv Rajiv Gurav and shey are good friends")
